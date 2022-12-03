@@ -2,7 +2,7 @@
 
 #### 题目
 
-利用C语言开发一个选修课管理系统
+利用C语言开发一个选修课管理系统，单链表
 
 【系统实现功能】
 
@@ -27,7 +27,7 @@
 
 2.学生：
 
-![image](https://user-images.githubusercontent.com/88269111/205338547-b08f75c3-ba8e-4198-9d9b-7f2827bcdb65.png)
+![image](https://user-images.githubusercontent.com/88269111/205424660-847dc181-7eba-42c4-bdec-86e558faf5c3.png)
 
 
 - 查看个人信息及选课
